@@ -143,54 +143,18 @@ export default function AboutMe() {
               Tech Stack
             </h1>
             <div className="flex flex-row flex-wrap mt-8">
-              <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
-              <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
-              <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
-              <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
-              <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
-              <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
-              <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
-              <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
-              <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
-              <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
-              <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
-              <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
+              <img src="/FireBaseLogo.png" className="h-20 w-20 mx-4 my-4" />
+              <img src="/reactlogo.png" className="h-20 w-20 mx-4 my-4" />
+              <img src="/node.png" className="h-20 w-20 mx-4 my-4" />
+              <img src="/JavaScript-logo.png" className="h-20 w-20 mx-4 my-4" />
+              <img src="/MongoDB_Logo.png" className="h-20 w-20 mx-4 my-4" />
+              <img src="/mui.png" className="h-20 w-20 mx-4 my-4" />
+              <img src="/git.png" className="h-20 w-20 mx-4 my-4" />
+              <img src="/Tailwindlogo.png" className="h-20 w-20 mx-4 my-4" />
+              <img src="/MySQL-Logo.png" className="h-20 w-20 mx-4 my-4" />
+              <img src="/HTML5_logo.png" className="h-20 w-20 mx-4 my-4" />
+              <img src="/csslogo.png" className="h-20 w-20 mx-4 my-4" />
+              <img src="/GitHub-Mark.png" className="h-20 w-20 mx-4 my-4" />
             </div>
           </div>
         </div>
