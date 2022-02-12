@@ -86,7 +86,7 @@ const userData = {
     twitter: "https://twitter.com/",
     linkedin: "https://www.linkedin.com/in/mihir-soni-27330b229/",
     github: "https://github.com/Mihirss",
-    facebook: "https://www.facebook.com/profile.php?id=100008753082566",
+    facebook: "https://www.facebook.com/mihir.soni.555/",
   },
 };
 
